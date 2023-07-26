@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy! 👋 As a passionate Frontend Developer specializing in React.js, I'm on a mission to craft captivating and seamless user experiences on the web. My name is [Your Name], and I thrive on the challenge of transforming innovative ideas into beautiful and functional interfaces that users love.
+Howdy! 👋 As a passionate Frontend Developer specializing in React.js, I'm on a mission to craft captivating and seamless user experiences on the web. My name is vishnu pumar, and I thrive on the challenge of transforming innovative ideas into beautiful and functional interfaces that users love.
 
 
 ## 🌐 Socials:
